@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://saveinstant.ca/$1"
+ }
+  ]
+}
